@@ -1,0 +1,21 @@
+.header{
+    background-color:#fae;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.items{
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+}
+h1{
+    color: red;
+    background-color: rgb(0,0,225);
+}
